@@ -1,3 +1,3 @@
 # SuperProjet
 ## projet collaboratif
-A faire : ajouter '.gitignore'
+A faire : ajouter `.gitignore`
